@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Crawler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Crawler.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
